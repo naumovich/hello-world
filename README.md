@@ -1,3 +1,4 @@
 # hello-world
-The hello-world repository
+The hello-world repository.
+
 First commit on readme-edits
